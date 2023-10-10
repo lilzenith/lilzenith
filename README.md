@@ -1,5 +1,6 @@
-<h3>Hi ✨ I'm Nico </h3>
+<h2>Hi ✨ I'm Nico </h2>
 <sup>Los Angeles native based in Berlin, Germany 🛹 </sup>
+<h2></h2>
 
 ```javascript
 const happyNico = {
@@ -16,5 +17,3 @@ const myStack = {
   production: ["Heroku"]
 }
 ```
-<sup><em>Let's Connect! >>></em></sup>
-<a href="https://linkedin.com/in/nchae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nchae" height="30" width="40" /></a>
