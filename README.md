@@ -1,5 +1,5 @@
 <h2>Hi ✨ I'm Nico </h2>
-<sup>Los Angeles native based in Berlin, Germany 🛹 </sup>
+<em><p>Los Angeles native based in Berlin, Germany 🛹 </p></em>
 <h2></h2>
 
 ```javascript
