@@ -4,7 +4,7 @@
 
 ```javascript
 const happyNico = {
-  education: "Le Wagon Berlin, a 9-week full-time intensive coding bootcamp",
+  education: "Le Wagon Berlin, a 10-week full-time intensive coding bootcamp",
   position: "Junior Full-Stack Developer",
   availableForHire: true,
   lifelongLearner: true
